@@ -1,0 +1,5 @@
+WEB_PORT = port
+
+# Nomics API settings
+
+NOMICS_KEY = nomics API key
